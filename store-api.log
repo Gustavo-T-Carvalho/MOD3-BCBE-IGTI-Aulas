@@ -1,0 +1,219 @@
+2022-05-29T15:40:53.220Z [store - api] error POST  - undefined
+2022-05-29T19:03:58.184Z [store - api] error POST  - undefined
+2022-05-29T19:05:06.420Z [store - api] error POST  - undefined
+2022-05-29T19:05:27.245Z [store - api] error POST  - undefined
+2022-05-29T19:08:33.469Z [store - api] error POST  - undefined
+2022-05-29T19:16:30.712Z [store - api] error GET  - undefined
+2022-05-29T19:22:55.044Z [store - api] error GET  - undefined
+2022-05-29T19:22:58.404Z [store - api] error GET  - undefined
+2022-05-29T19:23:01.639Z [store - api] error GET  - undefined
+2022-05-29T19:26:53.067Z [store - api] error DELETE  - undefined
+2022-05-29T19:27:15.317Z [store - api] error DELETE  - undefined
+2022-05-29T19:27:42.740Z [store - api] error DELETE  - undefined
+2022-05-29T19:27:46.284Z [store - api] error GET  - undefined
+2022-05-29T21:24:37.420Z [store - api] error POST  - undefined
+2022-05-29T21:25:03.057Z [store - api] error POST  - undefined
+2022-05-29T21:25:43.514Z [store - api] error POST  - undefined
+2022-05-29T21:26:01.054Z [store - api] error POST  - undefined
+2022-05-29T21:26:24.444Z [store - api] error PUT  - undefined
+2022-05-29T21:26:52.301Z [store - api] error PUT  - undefined
+2022-05-29T21:27:04.304Z [store - api] error PUT  - undefined
+2022-05-29T21:27:15.479Z [store - api] error PUT  - undefined
+2022-05-29T21:27:29.667Z [store - api] error PUT  - undefined
+2022-05-29T21:27:56.279Z [store - api] error PUT  - undefined
+2022-05-29T21:27:59.883Z [store - api] error GET  - undefined
+2022-05-29T21:28:14.952Z [store - api] error PUT  - undefined
+2022-05-29T21:28:16.962Z [store - api] error GET  - undefined
+2022-05-29T21:28:46.143Z [store - api] error PUT  - undefined
+2022-05-29T21:35:39.329Z [store - api] error GET  - undefined
+2022-05-29T21:35:43.110Z [store - api] error GET  - undefined
+2022-05-29T21:35:46.525Z [store - api] error DELETE  - undefined
+2022-05-29T21:36:01.658Z [store - api] error POST  - undefined
+2022-05-29T21:36:08.282Z [store - api] error PUT  - undefined
+2022-05-29T21:36:17.303Z [store - api] error PUT  - undefined
+2022-05-29T21:36:22.470Z [store - api] error PUT  - undefined
+2022-05-29T21:36:25.678Z [store - api] error GET  - undefined
+2022-05-29T21:36:35.152Z [store - api] error PUT  - undefined
+2022-05-29T21:36:36.978Z [store - api] error GET  - undefined
+2022-05-29T21:36:38.949Z [store - api] error GET  - undefined
+2022-05-29T21:36:42.127Z [store - api] error GET  - undefined
+2022-05-29T21:36:46.381Z [store - api] error DELETE  - undefined
+2022-05-29T21:36:48.047Z [store - api] error GET  - undefined
+2022-05-29T21:46:57.535Z [store - api] info POST /supplier - {"name":"Gustavo","cnpj":"10215598652","phone":"31999999999","email":"gustavo@gmail.com","address":"Rua x, 95"}
+2022-05-29T21:51:09.468Z [store - api] info POST /product - {"name":"Notebook","description":"i5","value":2120.3,"stock":5,"supplier_id":2}
+2022-05-29T21:51:12.397Z [store - api] info GET /product
+2022-05-29T21:51:16.986Z [store - api] info GET /product
+2022-05-29T21:51:19.605Z [store - api] info DELETE /product - 1
+2022-05-29T21:51:21.017Z [store - api] info GET /product
+2022-05-29T21:51:22.797Z [store - api] info POST /product - {"name":"Notebook","description":"i5","value":2120.3,"stock":5,"supplier_id":2}
+2022-05-29T21:51:24.109Z [store - api] info GET /product
+2022-05-29T21:51:41.539Z [store - api] info PUT /product - {"product_id":1,"name":"Notebook 2","description":"i5","value":2120.3,"stock":5,"supplier_id":2}
+2022-05-29T21:51:46.630Z [store - api] info PUT /product - {"product_id":2,"name":"Notebook 2","description":"i5","value":2120.3,"stock":5,"supplier_id":2}
+2022-05-29T21:51:49.315Z [store - api] info GET /product
+2022-05-29T21:52:18.524Z [store - api] info POST /product - {"name":"Notebook","description":"i5","value":2120.3,"stock":5,"supplier_id":4}
+2022-05-29T21:52:44.173Z [store - api] error POST  - undefined
+2022-05-29T21:59:01.486Z [store - api] error POST  - undefined
+2022-05-29T22:07:42.233Z [store - api] info GET /product
+2022-05-29T22:07:44.542Z [store - api] info GET /supplier
+2022-05-29T22:09:03.844Z [store - api] info GET /product
+2022-05-29T22:09:10.073Z [store - api] info GET /supplier
+2022-05-29T22:09:32.295Z [store - api] info POST /sale - {"value":5000,"date":"01/01/2020","client_id":2,"product_id":3}
+2022-05-29T22:09:34.687Z [store - api] info GET /sale
+2022-05-29T22:09:37.104Z [store - api] info GET /sale
+2022-05-29T22:09:50.086Z [store - api] error PUT  - undefined
+2022-05-29T22:09:56.853Z [store - api] error PUT  - undefined
+2022-05-29T22:11:03.132Z [store - api] info PUT /sale - {"sale_id":1,"value":5001,"date":"01/01/2020","client_id":2,"product_id":3}
+2022-05-29T22:11:10.288Z [store - api] info GET /sale
+2022-05-29T22:11:13.034Z [store - api] info DELETE /sale - 1
+2022-05-29T22:11:15.803Z [store - api] info GET /sale
+2022-05-29T22:11:25.155Z [store - api] info POST /sale - {"value":5000,"date":"01/01/2020","client_id":2,"product_id":3}
+2022-05-29T22:11:25.713Z [store - api] info POST /sale - {"value":5000,"date":"01/01/2020","client_id":2,"product_id":3}
+2022-05-29T22:15:06.933Z [store - api] error POST  - undefined
+2022-05-29T22:15:24.960Z [store - api] error POST  - undefined
+2022-05-29T22:15:27.947Z [store - api] error POST  - undefined
+2022-05-29T22:16:41.442Z [store - api] error POST  - undefined
+2022-05-29T22:16:59.267Z [store - api] error PUT  - undefined
+2022-05-29T22:19:55.918Z [store - api] error PUT  - undefined
+2022-05-29T22:20:44.110Z [store - api] error PUT  - undefined
+2022-05-29T22:21:14.299Z [store - api] error PUT  - undefined
+2022-05-29T22:35:10.180Z [store - api] info GET /product
+2022-05-29T22:35:22.967Z [store - api] error POST  - undefined
+2022-05-29T22:35:27.731Z [store - api] info POST /product - {"name":"Notebook novo","description":"i5","value":2120.3,"stock":1,"supplier_id":2}
+2022-05-29T22:35:37.663Z [store - api] info GET /product
+2022-05-29T22:35:46.594Z [store - api] info POST /sale - {"value":5000,"date":"01/01/2020","client_id":3,"product_id":6}
+2022-05-29T22:35:48.758Z [store - api] info POST /sale - {"value":5000,"date":"01/01/2020","client_id":3,"product_id":6}
+2022-05-29T22:35:50.561Z [store - api] info POST /sale - {"value":5000,"date":"01/01/2020","client_id":3,"product_id":6}
+2022-05-29T22:35:55.943Z [store - api] info GET /product
+2022-05-29T22:35:59.223Z [store - api] info GET /sale
+2022-05-29T22:36:13.026Z [store - api] error POST  - undefined
+2022-05-29T22:36:54.691Z [store - api] info POST /sale - {"value":5000,"date":"01/01/2020","client_id":3,"product_id":6}
+2022-05-29T22:36:57.919Z [store - api] info GET /sale
+2022-05-29T22:37:02.521Z [store - api] info GET /product
+2022-05-29T22:37:05.770Z [store - api] error POST  - undefined
+2022-05-29T22:43:38.631Z [store - api] info GET /sale
+2022-05-29T22:43:44.061Z [store - api] info GET /product
+2022-05-29T22:43:54.848Z [store - api] info DELETE /sale - 7
+2022-05-29T22:43:57.990Z [store - api] info GET /product
+2022-05-29T22:52:11.524Z [store - api] error GET  - undefined
+2022-05-29T22:52:51.815Z [store - api] info GET /sale
+2022-06-06T01:00:11.188Z [store - api] error POST  - undefined
+2022-06-06T01:00:26.696Z [store - api] info GET /client
+2022-06-06T01:00:33.417Z [store - api] info GET /client
+2022-06-06T01:00:38.179Z [store - api] info DELETE /client - 5
+2022-06-06T01:00:41.629Z [store - api] info GET /client
+2022-06-06T01:00:54.918Z [store - api] error PUT  - undefined
+2022-06-06T01:03:09.189Z [store - api] error PUT  - undefined
+2022-06-06T01:03:56.798Z [store - api] error PUT  - undefined
+2022-06-06T01:04:24.142Z [store - api] info PUT /client - {"clientId":7,"name":"Gustavo 9","cpf":"10215598652","phone":"31999999999","email":"gustavo@gmail.com","address":"Rua x, 95"}
+2022-06-06T01:07:56.732Z [store - api] info POST /client - {"name":"Gustavo","cpf":"10215598652","phone":"31999999999","email":"gustavo@gmail.com","address":"Rua x, 95"}
+2022-06-06T01:08:02.991Z [store - api] info GET /client
+2022-06-06T01:09:45.179Z [store - api] info GET /supplier
+2022-06-06T01:09:53.293Z [store - api] info GET /supplier
+2022-06-06T01:09:57.383Z [store - api] error DELETE  - undefined
+2022-06-06T01:10:06.560Z [store - api] info POST /supplier - {"name":"Gustavo3","cnpj":"10215598652","phone":"31999999999","email":"gustavo@gmail.com","address":"Rua x, 95"}
+2022-06-06T01:10:09.003Z [store - api] info GET /supplier
+2022-06-06T01:10:14.598Z [store - api] error PUT  - undefined
+2022-06-06T01:10:21.271Z [store - api] error PUT  - undefined
+2022-06-06T01:10:42.465Z [store - api] info PUT /supplier - {"supplierId":5,"name":"Gustavo 829","cnpj":"10215598652","phone":"31999999999","email":"gustavo@gmail.com","address":"Rua x, 95"}
+2022-06-06T01:10:45.154Z [store - api] info GET /supplier
+2022-06-06T01:11:24.797Z [store - api] info POST /supplier - {"name":"Gustavo3","cnpj":"10215598652","phone":"31999999999","email":"gustavo@gmail.com","address":"Rua x, 95"}
+2022-06-06T01:11:29.130Z [store - api] error DELETE  - undefined
+2022-06-06T01:12:21.358Z [store - api] info DELETE /supplier - 5
+2022-06-06T01:12:23.360Z [store - api] info GET /supplier
+2022-06-06T01:13:45.676Z [store - api] info GET /product
+2022-06-06T01:13:50.915Z [store - api] info GET /product
+2022-06-06T01:13:51.158Z [store - api] info GET /product
+2022-06-06T01:13:54.906Z [store - api] info DELETE /product - 2
+2022-06-06T01:13:57.190Z [store - api] info GET /product
+2022-06-06T01:13:59.740Z [store - api] error POST  - undefined
+2022-06-06T01:14:07.502Z [store - api] error POST  - undefined
+2022-06-06T01:14:11.235Z [store - api] info GET /supplier
+2022-06-06T01:14:48.707Z [store - api] info POST /product - {"name":"Notebook novo","description":"i5","value":2120.3,"stock":1,"supplierId":2}
+2022-06-06T01:14:51.281Z [store - api] info GET /product
+2022-06-06T01:14:58.432Z [store - api] error PUT  - undefined
+2022-06-06T01:15:03.381Z [store - api] error PUT  - undefined
+2022-06-06T01:15:11.559Z [store - api] error PUT  - undefined
+2022-06-06T01:15:26.880Z [store - api] error PUT  - undefined
+2022-06-06T01:15:28.048Z [store - api] error PUT  - undefined
+2022-06-06T01:15:33.434Z [store - api] info GET /supplier
+2022-06-06T01:15:49.369Z [store - api] error PUT  - undefined
+2022-06-06T01:16:56.876Z [store - api] error PUT  - undefined
+2022-06-06T01:18:02.257Z [store - api] error PUT  - undefined
+2022-06-06T01:19:44.724Z [store - api] info PUT /product - {"productId":7,"name":"Notebook 22","description":"i5","value":2120.3,"stock":5,"supplierId":2}
+2022-06-06T01:19:52.763Z [store - api] info PUT /product - {"productId":7,"name":"Notebook 222","description":"i5","value":2120.3,"stock":5,"supplierId":2}
+2022-06-06T01:22:15.946Z [store - api] info POST /product - {"name":"Notebook novo","description":"i5","value":2120.3,"stock":1,"supplierId":2}
+2022-06-06T01:26:55.651Z [store - api] info GET /product
+2022-06-06T01:26:59.181Z [store - api] info GET /client
+2022-06-06T01:27:14.382Z [store - api] error POST  - undefined
+2022-06-06T01:27:21.048Z [store - api] error POST  - undefined
+2022-06-06T01:27:22.690Z [store - api] error POST  - undefined
+2022-06-06T01:27:40.714Z [store - api] error POST  - undefined
+2022-06-06T01:28:49.249Z [store - api] error POST  - undefined
+2022-06-06T01:40:52.382Z [store - api] info POST /sale - {"value":5000,"date":"01/01/2020","clientId":2,"productId":3}
+2022-06-06T01:42:27.380Z [store - api] info GET /sale
+2022-06-06T01:42:38.184Z [store - api] error GET  - undefined
+2022-06-06T01:43:09.165Z [store - api] info GET /sale
+2022-06-06T01:44:47.449Z [store - api] info GET /sale
+2022-06-06T01:45:03.649Z [store - api] info GET /sale
+2022-06-06T01:45:45.038Z [store - api] info GET /sale
+2022-06-06T01:47:26.798Z [store - api] info GET /sale
+2022-06-06T01:48:51.762Z [store - api] info GET /sale
+2022-06-06T01:49:34.366Z [store - api] info GET /sale
+2022-06-06T01:50:31.319Z [store - api] info GET /sale
+2022-06-06T01:51:30.550Z [store - api] info GET /sale
+2022-06-06T01:51:36.342Z [store - api] error DELETE  - undefined
+2022-06-06T01:52:04.872Z [store - api] error DELETE  - undefined
+2022-06-06T01:52:31.670Z [store - api] error DELETE  - undefined
+2022-06-06T01:52:34.385Z [store - api] info GET /sale
+2022-06-06T01:52:41.766Z [store - api] info DELETE /sale - 6
+2022-06-06T01:52:43.749Z [store - api] info GET /sale
+2022-06-06T01:55:19.897Z [store - api] error PUT  - undefined
+2022-06-06T01:55:31.346Z [store - api] error PUT  - undefined
+2022-06-06T01:55:32.538Z [store - api] error PUT  - undefined
+2022-06-06T01:55:33.415Z [store - api] error PUT  - undefined
+2022-06-06T01:56:07.006Z [store - api] error PUT  - undefined
+2022-06-06T01:56:29.198Z [store - api] info GET /client
+2022-06-06T01:56:32.015Z [store - api] info GET /client
+2022-06-06T01:56:43.178Z [store - api] info GET /client
+2022-06-06T01:57:03.583Z [store - api] error PUT  - undefined
+2022-06-06T01:57:23.250Z [store - api] error PUT  - undefined
+2022-06-06T01:57:49.810Z [store - api] error PUT  - undefined
+2022-06-06T01:57:58.622Z [store - api] info PUT /sale - {"saleId":5,"value":5001,"date":"01/01/2021","clientId":2}
+2022-06-06T01:58:04.112Z [store - api] info GET /sale
+2022-06-06T01:58:24.677Z [store - api] info PUT /sale - {"saleId":5,"value":5021,"date":"01/01/2021","clientId":2}
+2022-06-06T01:59:18.709Z [store - api] error PUT  - undefined
+2022-06-06T01:59:24.907Z [store - api] info PUT /sale - {"saleId":5,"value":5021,"date":"01/01/2021","clientId":2}
+2022-06-06T01:59:30.296Z [store - api] info PUT /sale - {"saleId":5,"value":5021,"date":"01/01/2022","clientId":2}
+2022-06-06T02:00:34.111Z [store - api] info GET /sale
+2022-06-06T02:00:40.845Z [store - api] error DELETE  - undefined
+2022-06-06T02:01:12.677Z [store - api] error DELETE  - undefined
+2022-06-06T02:01:37.385Z [store - api] error DELETE  - undefined
+2022-06-06T02:01:58.451Z [store - api] error DELETE  - undefined
+2022-06-06T02:02:18.350Z [store - api] info DELETE /product - 9
+2022-06-06T02:09:42.790Z [store - api] info GET /sale
+2022-06-06T02:09:59.160Z [store - api] info GET /sale
+2022-06-06T23:42:19.058Z [store - api] info GET /product
+2022-06-06T23:43:27.682Z [store - api] info GET /product
+2022-06-06T23:43:40.592Z [store - api] error POST  - undefined
+2022-06-06T23:44:46.198Z [store - api] error POST  - undefined
+2022-06-06T23:45:40.602Z [store - api] info POST /product/info - undefined
+2022-06-06T23:52:04.480Z [store - api] info POST /product/info - undefined
+2022-06-06T23:52:16.943Z [store - api] info POST /product/info - undefined
+2022-06-06T23:52:21.639Z [store - api] info GET /product
+2022-06-06T23:53:07.064Z [store - api] error PUT  - undefined
+2022-06-06T23:53:32.040Z [store - api] info PUT /product/info - undefined
+2022-06-06T23:53:36.807Z [store - api] info GET /product
+2022-06-07T00:01:38.069Z [store - api] error GET  - undefined
+2022-06-07T00:01:47.000Z [store - api] error GET  - undefined
+2022-06-07T00:01:54.204Z [store - api] info GET /product
+2022-06-07T00:01:55.317Z [store - api] info GET /product
+2022-06-07T00:02:04.982Z [store - api] error GET  - undefined
+2022-06-07T00:02:12.791Z [store - api] error GET  - undefined
+2022-06-07T00:02:50.175Z [store - api] error GET  - undefined
+2022-06-07T00:04:30.740Z [store - api] error GET  - undefined
+2022-06-07T00:05:09.122Z [store - api] info GET /product
+2022-06-07T00:05:25.377Z [store - api] info GET /product
+2022-06-07T00:06:23.538Z [store - api] info GET /product
+2022-06-07T00:06:40.073Z [store - api] info GET /product
+2022-06-07T02:43:38.255Z [store - api] info GET /product
+2022-06-07T02:43:41.821Z [store - api] info GET /product
